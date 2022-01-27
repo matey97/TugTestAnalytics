@@ -1,0 +1,518 @@
+[
+	{
+		"id": "039f5a7c-62c3-4858-8cbb-0c523e21cfec",
+		"duration": 10067,
+		"startTime": 1643188890675,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1199,
+				"name": "STANDING",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"duration": 2638,
+				"name": "WALKING",
+				"start": 8,
+				"end": 19
+			},
+			{
+				"duration": 1676,
+				"name": "TURNING",
+				"start": 19,
+				"end": 26
+			},
+			{
+				"duration": 1681,
+				"name": "WALKING",
+				"start": 26,
+				"end": 33
+			},
+			{
+				"duration": 1684,
+				"name": "TURNING",
+				"start": 33,
+				"end": 40
+			},
+			{
+				"duration": 1189,
+				"name": "SITTING",
+				"start": 40,
+				"end": 45
+			}
+		]
+	},
+	{
+		"id": "535a660e-2ee2-4d19-840f-56dfb4ad7e86",
+		"duration": 10550,
+		"startTime": 1643188818145,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1199,
+				"name": "STANDING",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"duration": 2877,
+				"name": "WALKING",
+				"start": 8,
+				"end": 20
+			},
+			{
+				"duration": 2160,
+				"name": "TURNING",
+				"start": 20,
+				"end": 29
+			},
+			{
+				"duration": 1918,
+				"name": "WALKING",
+				"start": 29,
+				"end": 37
+			},
+			{
+				"duration": 1196,
+				"name": "TURNING",
+				"start": 37,
+				"end": 42
+			},
+			{
+				"duration": 1200,
+				"name": "SITTING",
+				"start": 42,
+				"end": 47
+			}
+		]
+	},
+	{
+		"id": "50b98d9e-55a2-4526-9091-603ffeb11609",
+		"duration": 11029,
+		"startTime": 1643188800082,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1439,
+				"name": "STANDING",
+				"start": 3,
+				"end": 9
+			},
+			{
+				"duration": 3115,
+				"name": "WALKING",
+				"start": 9,
+				"end": 22
+			},
+			{
+				"duration": 1201,
+				"name": "TURNING",
+				"start": 22,
+				"end": 27
+			},
+			{
+				"duration": 1918,
+				"name": "WALKING",
+				"start": 27,
+				"end": 35
+			},
+			{
+				"duration": 2155,
+				"name": "TURNING",
+				"start": 35,
+				"end": 44
+			},
+			{
+				"duration": 1201,
+				"name": "SITTING",
+				"start": 44,
+				"end": 49
+			}
+		]
+	},
+	{
+		"id": "b780b3f8-2d93-4916-9f0e-6655a028193d",
+		"duration": -1,
+		"startTime": 1643188752448,
+		"deviceId": "bab6088a",
+		"successful": false,
+		"activitiesDuration": [
+			{
+				"duration": 1193,
+				"name": "STANDING",
+				"start": 7,
+				"end": 12
+			}
+		]
+	},
+	{
+		"id": "db70ca3a-b4a0-4bf1-b20e-fd57fbccd271",
+		"duration": 10548,
+		"startTime": 1643188730370,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1439,
+				"name": "STANDING",
+				"start": 4,
+				"end": 10
+			},
+			{
+				"duration": 2642,
+				"name": "WALKING",
+				"start": 10,
+				"end": 21
+			},
+			{
+				"duration": 1915,
+				"name": "TURNING",
+				"start": 21,
+				"end": 29
+			},
+			{
+				"duration": 1678,
+				"name": "WALKING",
+				"start": 29,
+				"end": 36
+			},
+			{
+				"duration": 2394,
+				"name": "TURNING",
+				"start": 36,
+				"end": 46
+			},
+			{
+				"duration": 480,
+				"name": "SITTING",
+				"start": 46,
+				"end": 48
+			}
+		]
+	},
+	{
+		"id": "f573c42e-da43-4bcc-951b-52a3d54d9bd0",
+		"duration": 10796,
+		"startTime": 1643188713134,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1197,
+				"name": "STANDING",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"duration": 2641,
+				"name": "WALKING",
+				"start": 8,
+				"end": 19
+			},
+			{
+				"duration": 1917,
+				"name": "TURNING",
+				"start": 19,
+				"end": 27
+			},
+			{
+				"duration": 1676,
+				"name": "WALKING",
+				"start": 27,
+				"end": 34
+			},
+			{
+				"duration": 2160,
+				"name": "TURNING",
+				"start": 34,
+				"end": 43
+			},
+			{
+				"duration": 1205,
+				"name": "SITTING",
+				"start": 43,
+				"end": 48
+			}
+		]
+	},
+	{
+		"id": "9766e345-faaa-45a4-9566-4a301f1f1e67",
+		"duration": -1,
+		"startTime": 1643188671543,
+		"deviceId": "bab6088a",
+		"successful": false,
+		"activitiesDuration": [
+			{
+				"duration": 1199,
+				"name": "STANDING",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"duration": 2639,
+				"name": "WALKING",
+				"start": 8,
+				"end": 19
+			}
+		]
+	},
+	{
+		"id": "57789743-36f8-4c7a-a89b-26e1ca9abb1e",
+		"duration": 9588,
+		"startTime": 1643188655395,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1678,
+				"name": "STANDING",
+				"start": 3,
+				"end": 10
+			},
+			{
+				"duration": 1917,
+				"name": "WALKING",
+				"start": 10,
+				"end": 18
+			},
+			{
+				"duration": 3119,
+				"name": "TURNING",
+				"start": 18,
+				"end": 31
+			},
+			{
+				"duration": 717,
+				"name": "WALKING",
+				"start": 31,
+				"end": 34
+			},
+			{
+				"duration": 1200,
+				"name": "TURNING",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"duration": 957,
+				"name": "SITTING",
+				"start": 39,
+				"end": 43
+			}
+		]
+	},
+	{
+		"id": "90df2948-5399-468b-b780-636007a3dc1a",
+		"duration": -1,
+		"startTime": 1643188607394,
+		"deviceId": "bab6088a",
+		"successful": false,
+		"activitiesDuration": [
+			{
+				"duration": 1196,
+				"name": "STANDING",
+				"start": 5,
+				"end": 10
+			}
+		]
+	},
+	{
+		"id": "3337f3f8-2b77-469f-8597-79d2c93cddf6",
+		"duration": 9591,
+		"startTime": 1643188591654,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1199,
+				"name": "STANDING",
+				"start": 3,
+				"end": 8
+			},
+			{
+				"duration": 2397,
+				"name": "WALKING",
+				"start": 8,
+				"end": 18
+			},
+			{
+				"duration": 2160,
+				"name": "TURNING",
+				"start": 18,
+				"end": 27
+			},
+			{
+				"duration": 1675,
+				"name": "WALKING",
+				"start": 27,
+				"end": 34
+			},
+			{
+				"duration": 1199,
+				"name": "TURNING",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"duration": 961,
+				"name": "SITTING",
+				"start": 39,
+				"end": 43
+			}
+		]
+	},
+	{
+		"id": "838aae3f-d159-4600-b32e-bb01671611e4",
+		"duration": 9826,
+		"startTime": 1643188573704,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1437,
+				"name": "STANDING",
+				"start": 5,
+				"end": 11
+			},
+			{
+				"duration": 2156,
+				"name": "WALKING",
+				"start": 11,
+				"end": 20
+			},
+			{
+				"duration": 1918,
+				"name": "TURNING",
+				"start": 20,
+				"end": 28
+			},
+			{
+				"duration": 1916,
+				"name": "WALKING",
+				"start": 28,
+				"end": 36
+			},
+			{
+				"duration": 1201,
+				"name": "TURNING",
+				"start": 36,
+				"end": 41
+			},
+			{
+				"duration": 1198,
+				"name": "SITTING",
+				"start": 41,
+				"end": 46
+			}
+		]
+	},
+	{
+		"id": "cc0b44ec-f821-4459-b3da-9f2c481357c2",
+		"duration": 9590,
+		"startTime": 1643188557118,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1441,
+				"name": "STANDING",
+				"start": 4,
+				"end": 10
+			},
+			{
+				"duration": 2160,
+				"name": "WALKING",
+				"start": 10,
+				"end": 19
+			},
+			{
+				"duration": 1921,
+				"name": "TURNING",
+				"start": 19,
+				"end": 27
+			},
+			{
+				"duration": 1914,
+				"name": "WALKING",
+				"start": 27,
+				"end": 35
+			},
+			{
+				"duration": 1193,
+				"name": "TURNING",
+				"start": 35,
+				"end": 40
+			},
+			{
+				"duration": 961,
+				"name": "SITTING",
+				"start": 40,
+				"end": 44
+			}
+		]
+	},
+	{
+		"id": "fe8c1121-4a7b-46a9-ac36-265b8e72456e",
+		"duration": -1,
+		"startTime": 1643188528647,
+		"deviceId": "bab6088a",
+		"successful": false,
+		"activitiesDuration": [
+			{
+				"duration": 1438,
+				"name": "STANDING",
+				"start": 4,
+				"end": 10
+			}
+		]
+	},
+	{
+		"id": "df967ddf-4215-4e65-84ed-b551ebd60421",
+		"duration": 9347,
+		"startTime": 1643188512889,
+		"deviceId": "bab6088a",
+		"successful": true,
+		"activitiesDuration": [
+			{
+				"duration": 1677,
+				"name": "STANDING",
+				"start": 3,
+				"end": 10
+			},
+			{
+				"duration": 1918,
+				"name": "WALKING",
+				"start": 10,
+				"end": 18
+			},
+			{
+				"duration": 2160,
+				"name": "TURNING",
+				"start": 18,
+				"end": 27
+			},
+			{
+				"duration": 1675,
+				"name": "WALKING",
+				"start": 27,
+				"end": 34
+			},
+			{
+				"duration": 1200,
+				"name": "TURNING",
+				"start": 34,
+				"end": 39
+			},
+			{
+				"duration": 717,
+				"name": "SITTING",
+				"start": 39,
+				"end": 42
+			}
+		]
+	}
+]
