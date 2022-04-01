@@ -1,6 +1,6 @@
 # TUG Test Analytics
 
-This repository contains the data and code supporting the experiments for the paper "Instrumented Timed Up and Go (TUG) test
+This repository contains the data and code supporting the experiments for the AIME 2022 conference paper "Instrumented Timed Up and Go (TUG) test
 using inertial sensors from consumer wearable devices".
 
 ## Repository structure
@@ -14,7 +14,7 @@ the following values:
   - rr: smartwatch on **right** hand, turns to the **right**.
 - [FEATURES](./FEATURES): contains the features extracted from the RAW data, used to train the machine learning model.
 - [IMAGES](./IMAGES): contains some figures with the results of the experiment.
-- [MODEL](./MODEL): constains the trained machine learning model. The following files are included:
+- [MODEL](./MODEL): contains the trained machine learning model. The following files are included:
   - *labels.txt*: file with the labels (clases) of the trained model.
   - *model_full_norm.h5*: trained Keras model.
   - *model_full_norm.tflite*: TensorFlow Lite model with *labels.txt* embedded (through additional metadata file), ready to use.
